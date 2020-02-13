@@ -6,22 +6,22 @@
 
 | Data   | Conteúdo | Material |
 |-------:|----------|----------|
-| fev.13 | Apresentação e aplicações | vídeo: [This is A.I. - Discovery Channel - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=H3P87qCdqk4) |
+| fev.13 | Apresentação e aplicações | vídeo: [This is A.I. - Discovery Channel - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=H3P87qCdqk4) <br> vídeo: [The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) |
 |     20 | História, Conceitos e Automação em IA <br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
 | mar.05 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) |
-|     12 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./1trab.md) <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) Python introdução |
-|     19 | Classificação e Predição <br> Conceito de distância <br> Nuvem de dados | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos básicos |
-|     26 | k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) |
-| abr.02 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nbpSYqyZeil_NLF8F0jUGu50HL73XDmL) Normalização e redução <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bLwoRJcxJFRMWvAQnFti35d5JeYyI_t) Eigenfaces |
-|     09 | Discussões e análise dos experimentos | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RIr3NCj4OGkaFkRYSAvItXeLujZhontQ) Reconhecimento facial - OpenCV: PCA + SVM |
+|     12 | **Apresentação de trabalhos: O que é IA?** | |
+|     19 | Classificação e Predição <br> Conceito de distância <br> Nuvem de dados | |
+|     26 | k-nearest neighbors (KNN) | |
+| abr.02 | Principal component analysis (PCA) | |
+|     09 | Discussões e análise dos experimentos | |
 |     16 | **Prova Parcial** | |
-|     23 | Tomada de decisões <br> Bayesian decision tree | artigo: [What AI-Driven Decision Making Looks Like](https://hbr.org/2019/07/what-ai-driven-decision-making-looks-like)<br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) Teorema de Bayes <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bEfgKPZQerDQgDv5kEkyVfStXZuAVAwP) Naïve Bayes for Text Classification |
-|     30 | Natural language processing (NLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1scxjIBihj6ggzESqZWx6UpPxpgJHmx93) Redes de Hopfield<br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oi5J-W5cd6M0NwNBPleqmkbKzn2k2a38) RNN: Text Generator : Shakespeare <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZBGRljf8CnPXbhWyxd4c87M17jzAtpun) RNN: Text Generator : Camões |
+|     23 | Tomada de decisões <br> Bayesian decision tree | |
+|     30 | Natural language processing (NLP) | |
 | mai.07 | **Apresentação de trabalhos** | |
-|     14 | Multi layer Perceptron (MLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WmvzK7nB_cl8ZiU6QxrCfmpxQr54HzWd) Redes Neurais Artificiais (ANN) <br> artigo: [Perceptron](https://hackernoon.com/perceptron-deep-learning-basics-3a938c5f84b6) <br> simulador: [Playground TensorFlow](http://playground.tensorflow.org) <br> [Garby](https://tech-espm.github.io/garby) |
-|     21 | Deep learning | artigo: [Image Classifier - Cats vs Dogs](https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8) <br> video: [Torsten Wiesel: Exploring the Visual Brain](https://www.youtube.com/watch?v=aqzWy-zALzY) <br> blog: [Adit Deshpande](https://adeshpande3.github.io/) <br> artigo: [Style Transfer - Styling Images with Convolutional Neural Networks](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461) <br> gallery: [Deep Learning Gallery](http://deeplearninggallery.com/) <br> artigo: [Temporal Convolutional Network](https://www.kaggle.com/christofhenkel/temporal-convolutional-network) <br> artigo: [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21) <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K_7SoHIXyP42Mqv3_PS_2_VV6HFGd-8P) LSTM: Time Series |
-|     28 | Generative adversarial networks (GANs) | simulador: [GAN Lab](https://poloclub.github.io/ganlab/) <br> artigo: [Catch me if you can: A simple english explanation of GANs or Dueling neural-nets](https://towardsdatascience.com/catch-me-if-you-can-a-simple-english-explanation-of-gans-or-dueling-neural-nets-319a273434db) <br> artigo: [Generative Adversarial Networks — Explained](https://towardsdatascience.com/generative-adversarial-networks-explained-34472718707a) <br> curso: [Introduction to Deep Learning](http://introtodeeplearning.com/) <br> tutorial: [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160) <br> artigo: [Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis](https://arxiv.org/abs/1806.04558) <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LpldQbfrLo52WgBAQ6BYzshS8r70Yxio) DCGAN |
-| jun.04 | **Prova Final** | Apresentação: <br> - Produto onde o ponto essencial seja Machine Learning <br> - Estimar técnicas de Machine Learning aplicáveis ao problema <br> - Implementação (bônus) |
+|     14 | Multi layer Perceptron (MLP) | |
+|     21 | Deep learning | |
+|     28 | Generative adversarial networks (GANs) | |
+| jun.04 | **Prova Final** | |
 |     18 | Substitutivas | |
 
 ## Critérios
@@ -56,6 +56,9 @@
 
 ## News
 
+- 2020.02.13: Senado Federal - [Projeto de Lei n° 5051, de 2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/138790)
+- 2020.02.13: Participa.br - [Estratégia Brasileira de Inteligência Artificial](http://www.participa.br/estrategia-brasileira-de-inteligencia-artificial/estrategia-brasileira-de-inteligencia-artificial-legislacao-regulacao-e-uso-etico)
+- 2020.01.28: Google AI Blog - [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
 - 2019.10.23: Science - [AI allows paralyzed person to ‘handwrite’ with his mind](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind)
 - 2019.10.23: Nature - [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
 - 2019.10.09: Fortune - [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
