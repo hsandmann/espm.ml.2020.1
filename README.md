@@ -8,8 +8,8 @@
 |-------:|----------|----------|
 | fev.13 | Apresentação e aplicações | vídeo: [This is A.I. - Discovery Channel - Inteligência Artificial - IBM](https://www.youtube.com/watch?v=H3P87qCdqk4) <br> vídeo: [The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc) |
 |     20 | História, Conceitos e Automação em IA <br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
-| mar.05 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> site: [Colab](https://colab.research.google.com) |
-|     12 | **Apresentação de trabalhos: O que é IA?** | |
+| mar.05 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> resumo: [Resumo](https://colab.research.google.com/drive/1_Afno65aTsN1HdX3p3MKRRq7nrBaS1IZ) <br> site: [Colab](https://colab.research.google.com) <br> colab: [Python introdução](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) |
+|     12 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./trab.1.md) |
 |     19 | Classificação e Predição <br> Conceito de distância <br> Nuvem de dados | |
 |     26 | k-nearest neighbors (KNN) | |
 | abr.02 | Principal component analysis (PCA) | |
@@ -36,6 +36,7 @@
 ## Referências
 
 - S. Russell; P. Norvig: **Artificial Intelligence: A Modern Approach** (3rd Edition), 2009.
+- [AI destroying the Google's Dinosaur game!](https://www.youtube.com/watch?v=NZlIYr1slAk)
 - Python
   - [Tutorial](https://www.tutorialspoint.com/python/)
   - [Exact Instructions Challenge](https://youtu.be/cDA3_5982h8)
@@ -56,9 +57,16 @@
 
 ## News
 
+- 2020.02.25: MIT Technology Review - [How to know if artificial intelligence is about to destroy civilization](https://www.technologyreview.com/s/615264/artificial-intelligence-destroy-civilization-canaries-robot-overlords-take-over-world-ai/)
+- 2020.02.19: MIT Technology Review - [An Indian politician is using deepfake technology to win new voters](https://www.technologyreview.com/f/615247/an-indian-politician-is-using-deepfakes-to-try-and-win-voters/)
+- 2020.02.19: MIT Technology Review - [What AI still can’t do](https://www.technologyreview.com/s/615189/what-ai-still-cant-do/)
+- 2020.02.19: MIT Technology Review - [Artificial-intelligence development should be regulated, says Elon Musk](https://www.technologyreview.com/f/615254/artificial-intelligence-development-should-be-regulated-says-elon-musk/)
+- 2020.02.17: TechExplore - [Fear of Big Brother guides EU rules on AI](https://techxplore.com/news/2020-02-big-brother-eu-ai.html)
 - 2020.02.13: Senado Federal - [Projeto de Lei n° 5051, de 2019](https://www25.senado.leg.br/web/atividade/materias/-/materia/138790)
 - 2020.02.13: Participa.br - [Estratégia Brasileira de Inteligência Artificial](http://www.participa.br/estrategia-brasileira-de-inteligencia-artificial/estrategia-brasileira-de-inteligencia-artificial-legislacao-regulacao-e-uso-etico)
+- 2020.02.12: TecMundo - [Nova lei pode obrigar WhatsApp e FB a pedirem CPF de usuários](https://www.tecmundo.com.br/mercado/150220-nova-lei-obrigar-whatsapp-fb-pedirem-cpf-usuarios.htm)
 - 2020.01.28: Google AI Blog - [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+- 2020.01.17: Nature - [Machine learning leads mathematicians to unsolvable problem](https://www.nature.com/articles/d41586-019-00083-3)
 - 2019.10.23: Science - [AI allows paralyzed person to ‘handwrite’ with his mind](https://www.sciencemag.org/news/2019/10/ai-allows-paralyzed-person-handwrite-his-mind)
 - 2019.10.23: Nature - [Quantum supremacy using a programmable superconducting processor](https://www.nature.com/articles/s41586-019-1666-5)
 - 2019.10.09: Fortune - [Artificial Intelligence Could Be a $14 Trillion Boon to the Global Economy—If It Can Overcome These Obstacles](https://fortune.com/2019/10/09/artificial-intelligence-14-trillion-boon-only-if-overcome-one-thing/)
