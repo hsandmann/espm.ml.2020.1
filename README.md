@@ -10,8 +10,8 @@
 |     20 | História, Conceitos e Automação em IA <br> Impactos na sociedade | simulador: [Moral Machine](http://moralmachine.mit.edu) <br> vídeo: [John McCarthy](https://www.youtube.com/watch?v=Ozipf13jRr4) <br> vídeo: [Andrew Ng: Artificial Intelligence is the New Electricity](https://www.youtube.com/watch?v=21EiKfQYZXc) <br> artigo: [Harvard Business Review - Artificial Intelligence for the Real World](https://hbr.org/2018/01/artificial-intelligence-for-the-real-world) |
 | mar.05 | Dicussões e apresentação do Colab (ambiente de trabalho) | artigo: [FAPESP: O mundo mediado por algoritmos](https://revistapesquisa.fapesp.br/2018/04/19/o-mundo-mediado-por-algoritmos/) <br> livro: [Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf) <br> aplicações: [Deep Learning Galery](http://deeplearninggallery.com/) <br> resumo: [Resumo](https://colab.research.google.com/drive/1_Afno65aTsN1HdX3p3MKRRq7nrBaS1IZ) <br> site: [Colab](https://colab.research.google.com) <br> colab: [Python introdução](https://colab.research.google.com/drive/1MlnemrzD8FkFeCyp6Pa-Mj7xzjqI2Ok_) |
 |     12 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./trab.1.md) |
-|     19 | Classificação e Predição <br> Conceito de distância <br> Nuvem de dados | |
-|     26 | k-nearest neighbors (KNN) | |
+|     19 | Classificação e Predição <br> Conceito de distância | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos Básicos |
+|     26 | Nuvem de Dados <br> k-nearest neighbors (KNN) | |
 | abr.02 | Principal component analysis (PCA) | |
 |     09 | Discussões e análise dos experimentos | |
 |     16 | **Prova Parcial** | |
