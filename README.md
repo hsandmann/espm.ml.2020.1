@@ -12,7 +12,7 @@
 |     12 | **Apresentação de trabalhos: O que é IA?** | [Instruções](./trab.1.md) |
 |     26 | Classificação e Predição <br> Conceito de distância | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qDyvyji9I3-ujUCuVCvVPx1RnF7wSVWJ) Conceitos Básicos |
 | abr.02 | Nuvem de Dados <br> k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) Nuvem de Dados e KNN |
-|     09 | Principal component analysis (PCA) ||
+|     09 | Principal component analysis (PCA) | |
 |     16 | **Prova Parcial** | |
 |     23 | Tomada de decisões <br> Bayesian decision tree | |
 |     30 | Natural language processing (NLP) | |
