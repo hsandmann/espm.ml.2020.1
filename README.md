@@ -56,6 +56,8 @@
 
 ## News
 
+- 2020.04.06: Bloomberg - [Coronavirus Surveillance Helps, But the Programs Are Hard to Stop](https://www.bloomberg.com/news/articles/2020-04-06/coronavirus-surveillance-helps-but-the-programs-are-hard-to-stop)
+- 2020.04.14: CNN Brasil - [Moscou passa a rastrear população e levanta preocupações com privacidade](https://www.cnnbrasil.com.br/tecnologia/2020/04/14/moscou-passa-a-rastrear-populacao-e-levanta-preocupacoes-com-privacidade)
 - 2020.04.09: G1 - [SP usa sistema de monitoramento com sinais de celulares para localizar aglomeração de pessoas no estado](https://g1.globo.com/sp/sao-paulo/noticia/2020/04/09/sp-usa-sistema-de-monitoramento-com-sinais-de-celulares-para-localizar-aglomeracao-de-pessoas-no-estado.ghtml)
 - 2020.04.07: Agência Brasil - [https://agenciabrasil.ebc.com.br/geral/noticia/2020-04/rio-usa-sinal-de-celular-para-evitar-aglomeracoes](https://agenciabrasil.ebc.com.br/geral/noticia/2020-04/rio-usa-sinal-de-celular-para-evitar-aglomeracoes)
 - 2020.03.20: Financial Times - [Yuval Noah Harari: the world after coronavirus](https://www.ft.com/content/19d90308-6858-11ea-a3c9-1fe6fedcca75)
