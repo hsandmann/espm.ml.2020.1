@@ -14,7 +14,7 @@
 | abr.02 | Nuvem de Dados <br> k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) Nuvem de Dados e KNN |
 |     09 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ly2J0AJUO5gurmhbowiwhge8TLnILTnU) Pré-processamento, PCA e Reconhecimento facial |
 |     16 | **Prova Parcial** | [Instruções](./trab.2.md) |
-|     23 | Tomada de decisões <br> Bayesian decision tree | |
+|     23 | Tomada de decisões <br> Näive Bayes <br> Bayesian decision tree | Bayes' Theorem: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) <br> Text classification: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoPTTXp61vCxl21nS4g4xKbMcwDeBXXt) <br> video: [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss) |
 |     30 | Natural language processing (NLP) | |
 | mai.07 | **Apresentação de trabalhos** | |
 |     14 | Multi layer Perceptron (MLP) | |
@@ -56,6 +56,8 @@
 
 ## News
 
+- 2020.04.17: MIT Technology Review - [Machine learning could check if you’re social distancing properly at work](https://www.technologyreview.com/2020/04/17/1000092/ai-machine-learning-watches-social-distancing-at-work/)
+- 2020.04.08: Adam Savage’s Tested - [How Boston Dynamics' Spot Robot Works!](https://www.youtube.com/watch?v=R-PdPtqw78k)
 - 2020.04.06: Bloomberg - [Coronavirus Surveillance Helps, But the Programs Are Hard to Stop](https://www.bloomberg.com/news/articles/2020-04-06/coronavirus-surveillance-helps-but-the-programs-are-hard-to-stop)
 - 2020.04.14: CNN Brasil - [Moscou passa a rastrear população e levanta preocupações com privacidade](https://www.cnnbrasil.com.br/tecnologia/2020/04/14/moscou-passa-a-rastrear-populacao-e-levanta-preocupacoes-com-privacidade)
 - 2020.04.09: G1 - [SP usa sistema de monitoramento com sinais de celulares para localizar aglomeração de pessoas no estado](https://g1.globo.com/sp/sao-paulo/noticia/2020/04/09/sp-usa-sistema-de-monitoramento-com-sinais-de-celulares-para-localizar-aglomeracao-de-pessoas-no-estado.ghtml)
