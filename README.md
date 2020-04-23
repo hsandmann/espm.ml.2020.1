@@ -14,7 +14,7 @@
 | abr.02 | Nuvem de Dados <br> k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) Nuvem de Dados e KNN |
 |     09 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ly2J0AJUO5gurmhbowiwhge8TLnILTnU) Pré-processamento, PCA e Reconhecimento facial |
 |     16 | **Prova Parcial** | [Instruções](./trab.2.md) |
-|     23 | Tomada de decisões <br> Näive Bayes <br> Bayesian's decision tree | Bayes' Theorem: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) <br> Text classification: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoPTTXp61vCxl21nS4g4xKbMcwDeBXXt) <br> video: [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss) |
+|     23 | Tomada de decisões <br> Näive Bayes <br> Bayesian decision tree | Bayes Theorem: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) <br> Text classification: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoPTTXp61vCxl21nS4g4xKbMcwDeBXXt) <br> video: [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss) |
 |     30 | Natural language processing (NLP) | |
 | mai.07 | **Apresentação de trabalhos** | |
 |     14 | Multi layer Perceptron (MLP) | |
