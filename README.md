@@ -14,10 +14,10 @@
 | abr.02 | Nuvem de Dados <br> k-nearest neighbors (KNN) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_S9YD4OPlH8TK6UJFuCCDjdXz58_Ovw) Nuvem de Dados e KNN |
 |     09 | Principal component analysis (PCA) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ly2J0AJUO5gurmhbowiwhge8TLnILTnU) Pré-processamento, PCA e Reconhecimento facial |
 |     16 | **Prova Parcial** | [Instruções](./trab.2.md) |
-|     23 | Tomada de decisões <br> Naïve Bayes <br> Bayesian decision tree | Bayes Theorem: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) <br> Text classification: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoPTTXp61vCxl21nS4g4xKbMcwDeBXXt) <br> video: [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss) |
-|     30 | Natural language processing (NLP) | |
-| mai.07 | **Apresentação de trabalhos** | |
-|     14 | Multi layer Perceptron (MLP) | |
+|     23 | Tomada de decisões <br> Naïve Bayes <br> Bayesian decision tree | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xpx2AsBE_Kxj3rBjKTjci0_GBfjNL1Rj) Bayes Theorem <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KoPTTXp61vCxl21nS4g4xKbMcwDeBXXt) Text classification <br> video: [Naïve Bayes Classifier - Fun and Easy Machine Learning](https://www.youtube.com/watch?v=CPqOCI0ahss) <br> Article: [Introduction to Decision Intelligence](https://towardsdatascience.com/introduction-to-decision-intelligence-5d147ddab767) - suggested by Laura Emboaba Deliza |
+|     30 | Natural language processing (NLP) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1scxjIBihj6ggzESqZWx6UpPxpgJHmx93) Hopfield Network <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oi5J-W5cd6M0NwNBPleqmkbKzn2k2a38) RNN: Text Generator <br> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CsBwCLlnratwWvtQQneflI7ju-yJ8JaI) Attention: Translation <br> Article: [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/) <br> Meena: [Towards a Conversational Agent that Can Chat About…Anything](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html) |
+|     07 | Multi layer Perceptron (MLP) | |
+| mai.14 | **Apresentação de trabalhos** | |
 |     21 | Deep learning | |
 |     28 | Generative adversarial networks (GANs) | |
 | jun.04 | **Prova Final** | |
@@ -56,6 +56,7 @@
 
 ## News
 
+- 2020.04.27: CNN - [China is installing surveillance cameras outside people's front doors ... and sometimes inside their homes](https://edition.cnn.com/2020/04/27/asia/cctv-cameras-china-hnk-intl/index.html)
 - 2020.04.17: MIT Technology Review - [Machine learning could check if you’re social distancing properly at work](https://www.technologyreview.com/2020/04/17/1000092/ai-machine-learning-watches-social-distancing-at-work/)
 - 2020.04.08: Adam Savage’s Tested - [How Boston Dynamics' Spot Robot Works!](https://www.youtube.com/watch?v=R-PdPtqw78k)
 - 2020.04.06: Bloomberg - [Coronavirus Surveillance Helps, But the Programs Are Hard to Stop](https://www.bloomberg.com/news/articles/2020-04-06/coronavirus-surveillance-helps-but-the-programs-are-hard-to-stop)
