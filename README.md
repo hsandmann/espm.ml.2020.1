@@ -56,6 +56,7 @@
 
 ## News
 
+- 2020.05.08: Gizmodo - [Pandemic Robots Deployed in Singapore Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679/amp)
 - 2020.04.21: ArXiv.org - [TTNet: Real-time temporal and spatial video analysis of table tennis](https://arxiv.org/abs/2004.09927) - [video](https://www.youtube.com/watch?v=5P3k5ZCDcq8)
 - 2020.04.27: CNN - [China is installing surveillance cameras outside people's front doors ... and sometimes inside their homes](https://edition.cnn.com/2020/04/27/asia/cctv-cameras-china-hnk-intl/index.html)
 - 2020.04.17: MIT Technology Review - [Machine learning could check if you’re social distancing properly at work](https://www.technologyreview.com/2020/04/17/1000092/ai-machine-learning-watches-social-distancing-at-work/)
