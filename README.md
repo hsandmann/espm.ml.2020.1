@@ -55,6 +55,8 @@
 
 ## News
 
+- 2020.05.30: The Verge - [Microsoft lays off journalists to replace them with AI](https://www.theverge.com/2020/5/30/21275524/microsoft-news-msn-layoffs-artificial-intelligence-ai-replacements)
+- 2020.05.29: MIT Technology Review - [The UN says a new computer simulation tool could boost global development](https://www.technologyreview.com/2020/05/29/1002404/united-nations-computer-agents-simulation-boost-global-sustainable-development-goals/)
 - 2020.05.19: Yahoo Finance - [Microsoft debuts supercomputer for creating human-like artificial intelligence](https://finance.yahoo.com/news/microsoft-openai-artificial-intelligence-150010474.html)
 - 2020.05.08: Gizmodo - [Pandemic Robots Deployed in Singapore Parks to Remind Humans of Their Own Mortality](https://gizmodo.com/pandemic-robots-deployed-in-singapore-parks-to-remind-h-1843335679/amp)
 - 2020.04.21: ArXiv.org - [TTNet: Real-time temporal and spatial video analysis of table tennis](https://arxiv.org/abs/2004.09927) - [video](https://www.youtube.com/watch?v=5P3k5ZCDcq8)
